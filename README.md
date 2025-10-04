@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RolandSingh
 - 👀 I’m interested in AI and ML
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Computr Vision related work
 - 📫 How to reach me Email-24f2003132@ds.study.iitm.ac.in
 
 <!---
